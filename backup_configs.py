@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from distutils.command.config import config
 import pathlib
 from nornir import InitNornir
