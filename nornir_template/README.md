@@ -8,7 +8,6 @@ $ git clone https://github.com/dstencil/Nornir.git
 
 ## Docker Build Method
 ```
-$ cd /path/to/repo
 $ docker build . -t nornir_v.01
 $ docker run --name site-nornir nornir_v.01
 ```
