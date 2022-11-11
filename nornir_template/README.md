@@ -1,7 +1,7 @@
 # Nornir Automation Framework
 
 
-## Docker Method
+## Docker Build Method
 ```
 $ cd /path/to/repo
 $ docker build . -t nornir_v.01
