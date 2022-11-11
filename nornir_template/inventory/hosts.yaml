@@ -1,0 +1,221 @@
+---
+
+192.168.1.1: 
+  hostname: 192.168.1.1
+  groups:
+    - 'ios'
+
+192.168.1.40: 
+  hostname: 192.168.1.40 
+  groups:
+    - 'ios'
+
+192.168.1.41:
+  hostname: 192.168.1.41
+  groups:
+    - 'ios'
+
+192.168.1.42:
+  hostname: 192.168.1.42
+  groups:
+    - 'ios'
+
+192.168.1.43:
+  hostname: 192.168.1.43
+  groups:
+    - 'ios'
+
+192.168.1.44: 
+  hostname: 192.168.1.44 
+  groups:
+    - 'ios'
+
+192.168.1.45: 
+  hostname: 192.168.1.45 
+  groups:
+    - 'ios'
+
+192.168.1.46: 
+  hostname: 192.168.1.46 
+  groups:
+    - 'ios'
+
+192.168.1.47: 
+  hostname: 192.168.1.47 
+  groups:
+    - 'ios'
+
+192.168.1.48: 
+  hostname: 192.168.1.48 
+  groups:
+    - 'ios'
+
+192.168.1.49: 
+  hostname: 192.168.1.49 
+  groups:
+    - 'ios'
+
+192.168.1.50: 
+  hostname: 192.168.1.50 
+  groups:
+    - 'ios'
+192.168.1.51: 
+  hostname: 192.168.1.51 
+  groups:
+    - 'ios'
+192.168.1.52: 
+  hostname: 192.168.1.52 
+  groups:
+    - 'ios'
+
+192.168.1.53: 
+  hostname: 192.168.1.53 
+  groups:
+    - 'ios'
+192.168.1.54: 
+  hostname: 192.168.1.54 
+  groups:
+    - 'ios'
+192.168.1.55: 
+  hostname: 192.168.1.55 
+  groups:
+    - 'ios'
+    
+192.168.1.56: 
+  hostname: 192.168.1.56 
+  groups:
+    - 'ios'
+
+192.168.1.57: 
+  hostname: 192.168.1.57 
+  groups:
+    - 'ios'
+
+192.168.1.58: 
+  hostname: 192.168.1.58 
+  groups:
+    - 'ios'
+
+192.168.1.59: 
+  hostname: 192.168.1.59 
+  groups:
+    - 'ios'
+
+192.168.1.60: 
+  hostname: 192.168.1.60 
+  groups:
+    - 'ios'
+
+192.168.1.61: 
+  hostname: 192.168.1.61 
+  groups:
+    - 'ios'
+192.168.1.62: 
+  hostname: 192.168.1.62 
+  groups:
+    - 'ios'
+192.168.1.63: 
+  hostname: 192.168.1.63 
+  groups:
+    - 'ios'
+192.168.1.64: 
+  hostname: 192.168.1.64 
+  groups:
+    - 'ios'
+192.168.1.65: 
+  hostname: 192.168.1.65 
+  groups:
+    - 'ios'
+192.168.1.66: 
+  hostname: 192.168.1.66 
+  groups:
+    - 'ios'
+192.168.1.67: 
+  hostname: 192.168.1.67 
+  groups:
+    - 'ios'
+
+192.168.1.68: 
+  hostname: 192.168.1.68 
+  groups:
+    - 'ios'
+192.168.1.69: 
+  hostname: 192.168.1.69 
+  groups:
+    - 'ios'
+
+192.168.1.70: 
+  hostname: 192.168.1.70 
+  groups:
+    - 'ios'
+
+192.168.1.71:
+  hostname: 192.168.1.71
+  groups:
+    - 'ios'
+
+192.168.1.72:
+  hostname: 192.168.1.72
+  groups:
+    - 'ios'
+192.168.1.73:
+  hostname: 192.168.1.73
+  groups:
+    - 'ios'
+192.168.1.74:
+  hostname: 192.168.1.74
+  groups:
+    - 'ios'
+192.168.1.75:
+  hostname: 192.168.1.75
+  groups:
+    - 'ios'    
+192.168.1.76:
+  hostname: 192.168.1.76
+  groups:
+    - 'ios'
+    
+192.168.1.77:
+  hostname: 192.168.1.77
+  groups:
+    - 'ios'
+192.168.1.78:
+  hostname: 192.168.1.78
+  groups:
+    - 'ios'
+192.168.1.79:
+  hostname: 192.168.1.79
+  groups:
+    - 'ios'
+192.168.1.80:
+  hostname: 192.168.1.80
+  groups:
+    - 'ios'
+192.168.1.81:
+  hostname: 192.168.1.81
+  groups:
+    - 'ios'
+192.168.1.82:
+  hostname: 192.168.1.82
+  groups:
+    - 'ios'    
+192.168.1.83:
+  hostname: 192.168.1.83
+  groups:
+    - 'ios'
+192.168.1.84:
+  hostname: 192.168.1.84
+  groups:
+    - 'ios'
+192.168.1.85:
+  hostname: 192.168.1.85
+  groups:
+    - 'ios'
+192.168.1.86:
+  hostname: 192.168.1.86
+  groups:
+    - 'ios'
+192.168.1.87:
+  hostname: 192.168.1.87
+  groups:
+    - 'ios'    
