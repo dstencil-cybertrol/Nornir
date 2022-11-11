@@ -6,6 +6,7 @@
 $ cd /path/to/repo
 $ docker build . -t nornir_v.01
 $ docker run --name site-nornir nornir_v.01
+```
 ### Check if application is running in docker
 
 ```
