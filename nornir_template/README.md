@@ -1,5 +1,10 @@
 # Nornir Automation Framework
 
+### Git Clone Repo 
+```
+$ git clone https://github.com/dstencil/Nornir.git
+
+```
 
 ## Docker Build Method
 ```
