@@ -3,8 +3,8 @@
 
 FROM python:3.11-rc-alpine
 
-WORKDIR /test
-COPY . /test
+WORKDIR /nornir
+COPY . /nornir
 RUN pip install -U pip && \
     pip install -U setuptools && \
     apk --update add bash && \
