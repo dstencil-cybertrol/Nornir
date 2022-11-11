@@ -7,3 +7,6 @@ Nornir Network Automation Framework Scripts and template for configuration backu
 - Build dockerfile with automated build and destroy bash script
 - Integrate CI/CD pipeline
 - Integrate Test environment
+
+#### scripts
+- Create more scripts for network automation
