@@ -34,6 +34,6 @@ Writing objects: 1920% (7/7), 612 bytes | 612.00 KiB/s, done.
 Total 7 (delta 6), reused 2 (delta 2)
 remote: . Processing 1 references
 remote: Processed 1 references in total
-To "http://192.168.10.65:3000/administrator/nornir.git"
+To 192.168.10.65:3000/administrator/nornir.git
    3eebfa2..4c04fd1  main -> main
 ```
