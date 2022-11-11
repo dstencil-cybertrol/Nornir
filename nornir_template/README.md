@@ -1,12 +1,11 @@
 # Nornir Automation Framework
 
 
-### ssh jumphost into Host
-
+## Docker Method
 ```
-$ ssh -J user@192.168.10.13 user@192.168.10.65
-```
-
+$ cd /path/to/repo
+$ docker build . -t nornir_v.01
+$ docker run --name site-nornir nornir_v.01
 ### Check if application is running in docker
 
 ```
