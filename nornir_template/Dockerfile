@@ -10,6 +10,6 @@ RUN pip install -U pip && \
     apk --update add bash && \
     apk add libxml2-dev libxslt-dev g++ postgresql-dev cargo gcc python3-dev libffi-dev musl-dev zlib-dev jpeg-dev git && \
     pip install pandas && \
-	pip install -r requirements.txt && \
-	git clone https://github.com/dstencil/Nornir.git
+    pip install -r requirements.txt && \
+    
 COPY requirements.txt requirements.txt
