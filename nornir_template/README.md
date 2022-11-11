@@ -1,18 +1,17 @@
 # Nornir Automation Framework
 
 
-### ssh jumphost into UTIL-VM
-
+## Docker Method
 ```
-$ ssh -J user@192.168.10.13 user@192.168.10.65
-```
-
+$ cd /path/to/repo
+$ docker build . -t nornir_v.01
+$ docker run --name site-nornir nornir_v.01
 ### Check if application is running in docker
 
 ```
 $ docker ps
 CONTAINER ID   IMAGE                      COMMAND                  CREATED          STATUS          NAMES                       PORTS                                                                                    
-fd6930df22d6   dstencil/ce:nornir_v.01    "python3"                30 minutes ago   Up 30 minutes   spe-nornir
+fd6930df22d6   dstencil/ce:nornir_v.01    "python3"                30 minutes ago   Up 30 minutes   site-nornir
 
 ```
 
